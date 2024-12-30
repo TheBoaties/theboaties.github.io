@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+What: We're building a CLC Rhode Runner and sharing our process along the way.
 
-Maybe say a some things about yourself.
+Why: After deciding on the goal of building a boat, we were surprised by the lack of consolidated information on the complete process including the practial parts. A consolidated source for information on the woodworking, epoxy work, equipment, electronics, motor was missing. A secondary objective is to share the process with friends and family.
 
-Or maybe what you plan to blog about.
+Who: Two folks in Switzerland
