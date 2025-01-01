@@ -1,7 +1,6 @@
 # List of all equipment, consumables needed
 
 ## Tools
-
 | Tool | Description | Price (chf) |
 | - | - | - |
 | Japanese handsaw |  | 31 |
@@ -20,7 +19,6 @@
 Total: 849 chf (1.1.25)
 
 ## Consumables
-
 | Consumable | Quantity | Price (chf) |
 | - | - | - |
 | Sandpaper | a lot |  |
