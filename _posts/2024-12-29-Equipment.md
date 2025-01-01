@@ -1,7 +1,7 @@
 # List of all equipment, consumables needed
 
 ## Tools
-| Tool | Description | Price |
+| Tool | Description | Price (chf) |
 | - | - | - |
 | Japanese handsaw |  | 31 |
 | Block Plane |  | 52 |
@@ -19,20 +19,20 @@
 Total: 849 chf (1.1.25)
 
 ## Consumables
-| Consumable | Quantity | Price |
+| Consumable | Quantity | Price (chf) |
 | - | - | - |
 | Sandpaper | a lot |  |
-| Stirring sticks | 200 | 7 |
-| Disposable nitrile gloves | 500 | 29 |
-| Mixing cups | 50 | 32 |
-| Solvent respirator filter | 2 | 38 |
-| Particle respirator filter | 2 | 5 |
-| Plastic squeegee | 20 | 28 |
-| Roller frame | 1 | 7 |
-| Rollers | 36 | 130 |
-| Foam paintbrush | 36 | 61 |
-| Paintbrush | 36 |  |
-| Painters tape | 5 | 18 |
+| Stirring sticks | 200 pcs | 7 |
+| Disposable nitrile gloves | 500 pcs | 29 |
+| Mixing cups | 50 pcs | 32 |
+| Solvent respirator filter | 2 pcs | 38 |
+| Particle respirator filter | 2 pcs | 5 |
+| Plastic squeegee | 20 pcs | 28 |
+| Roller frame | 1 pcs | 7 |
+| Rollers | 36 pcs | 130 |
+| Foam paintbrush | 36 pcs | 61 |
+| Paintbrush | 36 pcs |  |
+| Painters tape | 5 pcs | 18 |
 | Denatured alcohol | 1 L | 15 |
 
 Total: 646 chf (1.1.25)
