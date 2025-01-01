@@ -1,6 +1,7 @@
 # List of all equipment, consumables needed
 
 ## Boat
+
 | Part of kit | Price (chf) |
 | - | - |
 | Kit |  |
