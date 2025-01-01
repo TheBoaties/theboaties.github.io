@@ -1,5 +1,16 @@
 # List of all equipment, consumables needed
 
+## Boat
+| Part of kit | Price (chf) |
+| - | - |
+| Kit |  |
+| Wood | 4'785 |
+| Steering package | 252 |
+| Windshield package | 456 |
+| Motor mounts | 80 |
+| Hardware package | 520 |
+Total: 7'567 chf (1.1.25)
+
 ## Tools
 
 | Tool | Description | Price (chf) |
@@ -16,7 +27,6 @@
 | Shop vac |  | 170 |
 | Respirator |  | 28 |
 | Earmuffs |  | 24 |
-
 Total: 849 chf (1.1.25)
 
 ## Consumables
@@ -36,5 +46,4 @@ Total: 849 chf (1.1.25)
 | Paintbrush | 36 pcs |  |
 | Painters tape | 5 pcs | 18 |
 | Denatured alcohol | 1 L | 15 |
-
 Total: 646 chf (1.1.25)
