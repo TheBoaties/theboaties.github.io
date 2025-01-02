@@ -2,52 +2,51 @@
 
 ## Boat
 
-| Part of kit | Price (chf) |
-| - | - |
-| Kit |  |
-| Wood | 4'785 |
-| Steering package | 252 |
-| Windshield package | 456 |
-| Motor mounts | 80 |
-| Hardware package | 520 |
+| Part of kit | Contents |  |
+| - | - | - | 
+| Kit | All wood pieces, screws, epoxy, fiberglass A3 drawings | 4'785 |
+| Steering package |  Steering wheel with motor cabling | 252 |
+| Windshield package |  Acrylic pieces, mounts |456 |
+| Motor mounts | Marine plastic blocks for mounting motor | 80 |
+| Hardware package |  Cleats, chocks, bow and stern eyes, stainless rubrail |520 |
 
 Total: 7'567 chf (1.1.25)
 
 ## Tools
 
-| Tool | Description | Price (chf) |
-| - | - | - |
-| Japanese handsaw |  | 31 |
-| Block Plane |  | 52 |
-| Hand drill |  | 100 |
-| Pliers |  | 6 |
-| Wire cutters |  | 16 |
-| Utility knife |  | 5 |
-| Saw horse |  | 44 |
-| Glass fiber scissors |  | 26 |
-| Orbital sander |  | 180 |
-| Shop vac |  | 170 |
-| Respirator |  | 28 |
-| Earmuffs |  | 24 |
+| Tool | Description | Notes |
+| - | - |  - | 
+| Japanese handsaw | Technocrat Shogun |  |
+| Block Plane | Stanley 1-12-060 |  |
+| Hand drill | Bosch GSR 18V-21 |  |
+| Orbital sander | Bosch GEX 34-125 |  |
+| Shop vac | Bosch GAS 12-25 PL |  |
+| Respirator | 3M 6000 half mask | Should protect from both dust and VOCs|
+| Pliers |  |  |
+| Wire cutters |  |  |
+| Utility knife |  |  |
+| Saw horse |  | Make sure they can hold the weight of the boat |
+| Glass fiber scissors |  |  |
+| Earmuffs | 3M Peltor Optimel | Protect your ears |
+| Eye goggles |  | Protect your eyes, even from dust |
 
-Total: 849 chf (1.1.25)
 
 ## Consumables
 
-| Consumable | Quantity | Price (chf) |
-| - | - | - |
-| Sandpaper | a lot |  |
-| Stirring sticks | 200 pcs | 7 |
-| Disposable nitrile gloves | 500 pcs | 29 |
-| Mixing cups | 50 pcs | 32 |
-| Solvent respirator filter | 2 pcs | 38 |
-| Particle respirator filter | 2 pcs | 5 |
-| Plastic squeegee | 20 pcs | 28 |
-| Roller frame | 1 pcs | 7 |
-| Rollers | 36 pcs | 130 |
-| Foam paintbrush | 36 pcs | 61 |
-| Paintbrush | 36 pcs |  |
-| Painters tape | 5 pcs | 18 |
-| Denatured alcohol | 1 L | 15 |
+| Consumable | Notes | Quantity |
+| - | - |  - | 
+| Sandpaper | for both hand sanding and orbital sanding| a lot | 
+| Stirring sticks |  | 200 pcs |
+| Disposable nitrile gloves | | 500 pcs |
+| Mixing cups |  | 50 pcs |
+| Solvent respirator filter (3M 6055 filter) |  | 2 pcs |
+| Particle respirator filter (3M 501M plus P2 fie dust filter) | 2 pcs |
+| Plastic squeegee |  | 20 pcs |
+| Roller frame |  | 1 pcs |
+| Rollers |  | 36 pcs |
+| Foam paintbrush |  | 36 pcs |
+| Paintbrush |  | 36 pcs |
+| Painters tape |  | 5 pcs |
+| Denatured alcohol |  | 1 L |
 
-Total: 646 chf (1.1.25)
+
