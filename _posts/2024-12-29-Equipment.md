@@ -4,7 +4,7 @@
 
 | Part of kit | Contents |
 | - | - |
-| Kit | All wood pieces, screws, epoxy, fiberglass A3 drawings |
+| Kit | All wood pieces, screws, epoxy, fiberglass, A3 drawings |
 | Steering package | Steering wheel with motor cabling |
 | Windshield package | Acrylic pieces, mounts |
 | Motor mounts | Marine plastic blocks for mounting motor |
