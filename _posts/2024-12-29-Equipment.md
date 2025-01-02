@@ -40,8 +40,8 @@ Total: 7'567 chf (1.1.25)
 | Stirring sticks |  | 200 pcs |
 | Disposable nitrile gloves | | 500 pcs |
 | Mixing cups |  | 50 pcs |
-| Solvent respirator filter (3M 6055 filter) |  | 2 pcs |
-| Particle respirator filter (3M 501M plus P2 fie dust filter) | 2 pcs |
+| Solvent respirator filter (3M 6055 filter) | Replace as instructed in documentation | 2 pcs |
+| Particle respirator filter (3M 501M plus P2 fie dust filter) | Replace as instructed in documentation | 2 pcs |
 | Plastic squeegee |  | 20 pcs |
 | Roller frame |  | 1 pcs |
 | Rollers |  | 36 pcs |
