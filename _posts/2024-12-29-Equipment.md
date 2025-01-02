@@ -2,13 +2,13 @@
 
 ## Boat
 
-| Part of kit | Contents |  |
-| - | - | - | 
-| Kit | All wood pieces, screws, epoxy, fiberglass A3 drawings | 4'785 |
-| Steering package |  Steering wheel with motor cabling | 252 |
-| Windshield package |  Acrylic pieces, mounts |456 |
-| Motor mounts | Marine plastic blocks for mounting motor | 80 |
-| Hardware package |  Cleats, chocks, bow and stern eyes, stainless rubrail |520 |
+| Part of kit | Contents |
+| - | - |
+| Kit | All wood pieces, screws, epoxy, fiberglass A3 drawings |
+| Steering package | Steering wheel with motor cabling |
+| Windshield package | Acrylic pieces, mounts |
+| Motor mounts | Marine plastic blocks for mounting motor |
+| Hardware package | Cleats, chocks, bow and stern eyes, stainless rubrail |
 
 Total: 7'567 chf (1.1.25)
 
@@ -22,14 +22,15 @@ Total: 7'567 chf (1.1.25)
 | Orbital sander | Bosch GEX 34-125 |  |
 | Shop vac | Bosch GAS 12-25 PL |  |
 | Respirator | 3M 6000 half mask | Should protect from both dust and VOCs|
+| Saw horse |  | Make sure they can hold the weight of the boat |
+| Earmuffs | 3M Peltor Optimel | Protect your ears |
+| Eye goggles |  | Protect your eyes, even from dust |
 | Pliers |  |  |
 | Wire cutters |  |  |
 | Utility knife |  |  |
-| Saw horse |  | Make sure they can hold the weight of the boat |
 | Glass fiber scissors |  |  |
-| Earmuffs | 3M Peltor Optimel | Protect your ears |
-| Eye goggles |  | Protect your eyes, even from dust |
-
+| Various screw drivers |  |  |
+| Various drill bits |  |  |
 
 ## Consumables
 
