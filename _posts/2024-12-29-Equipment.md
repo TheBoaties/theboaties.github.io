@@ -10,8 +10,6 @@
 | Motor mounts | Marine plastic blocks for mounting motor |
 | Hardware package | Cleats, chocks, bow and stern eyes, stainless rubrail |
 
-Total: 7'567 chf (1.1.25)
-
 ## Tools
 
 | Tool | Description | Notes |
